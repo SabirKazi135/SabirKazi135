@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabirKazi135?tab=repositories](https://github.com/SabirKazi135?tab=repositories)
 
-- 📫 Email: [mailto:sabirkazi135@gmail.com](mailto:sabirkazi135@gmail.com)
+- 📫 Email: [sabirkazi135@gmail.com](mailto:sabirkazi135@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
