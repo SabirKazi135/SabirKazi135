@@ -2,7 +2,7 @@
 <h3 align="center">A passionate about frontend developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabirkazi135" alt="sabirkazi135" /> hello</a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">SabirKazi135</a> </p>
 
 <p align="left"> <a href="https://twitter.com/sabirkazi135" target="blank"><img src="https://img.shields.io/twitter/follow/sabirkazi135?logo=twitter&style=for-the-badge" alt="sabirkazi135" /></a> </p>
 
