@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on [Finance-Tracker](https://finance-tracker-lime-eight.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SabirKazi135?tab=repositories](https://github.com/SabirKazi135?tab=repositories)
 
 - 📫 Email: [sabirkazi135@gmail.com](mailto:sabirkazi135@gmail.com)
 
